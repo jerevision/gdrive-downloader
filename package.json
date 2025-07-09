@@ -10,7 +10,6 @@
     "puppeteer": "^21.3.8"
   },
   "puppeteer": {
-  "skipChromiumDownload": true
-}
-
+    "skipChromiumDownload": true
+  }
 }
